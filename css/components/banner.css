@@ -1,0 +1,13 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0.0)), url(../../images/landscape.jpg);
+	color: white;
+	padding: 230px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size: 20px;
+	margin-bottom: 50px;
+}
